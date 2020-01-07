@@ -4,3 +4,6 @@
 [submodule "02/02"]
 	path = 02/02
 	url = https://github.com/wotupset/poi200107submodules.git
+[submodule "03"]
+	path = 03
+	url = https://github.com/wotupset/poi200107submodules.git
